@@ -25,7 +25,7 @@ O ebook Dominando SQL é um projeto gerado por Inteligência Artificial, abordan
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | título |  Imagine a character based on Joi in pixel art style, with elements inspired by Blade Runner 2049, themed around an SQL database for an ebook cover
-|
+
 
 ## 📚 Prompts
 
