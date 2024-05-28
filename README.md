@@ -2,7 +2,7 @@
 
 # 📓 Projeto ebook criado por IA
 
-O ebook Dominando SQL é um projeto gerado por Inteligência Artificial, abordando os principais comandos empregados na linguagem SQL. Para acessá-lo, [clique aqui]().
+O ebook Dominando SQL é um projeto gerado por Inteligência Artificial, abordando os principais comandos empregados na linguagem SQL. Para acessá-lo, [clique aqui](output/Dominando_SQL.pdf).
 
 ## 🖥️ Tecnologias utilizadas 
 
